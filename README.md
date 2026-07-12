@@ -18,10 +18,7 @@ This project answers key business questions about sales performance, customer or
 - Power BI Desktop
 - Microsoft Excel (data source)
 
-## 🗂️ Project Structure
-├── data/ │   └── pizza_sales_excel_file.xlsx ├── sql/ │   └── pizza_sales_queries.sql ├── dashboard/ │   └── pizza_kpi_dashboard.pbix ├── screenshots/ │   ├── home_page.png │   └── best_worst_seller_page.png └── README.md
 ## 🔍 Analysis Breakdown
-
 A. KPIs — Total Revenue, Average Order Value  
 B/C. Trends — Daily & Monthly order trends  
 D. Category Analysis — % of sales by pizza category  
